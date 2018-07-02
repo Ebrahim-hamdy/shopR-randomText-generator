@@ -1,4 +1,4 @@
-# Programming Challenge - Generate random text and output to file
+## Programming Challenge - Generate random text and output to file
 
 Program that will generate four(4) types of printable random
 objects and store them in a single file, each object will be separated by
@@ -19,6 +19,7 @@ Python 3
 ## Prerequisite
 The project requires Python 3.6.2 and above.
 
-### How to run
+## How to run
 Python3 generateRandom.py
+
 Python3 readRandomTypes.py
